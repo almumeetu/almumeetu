@@ -1,14 +1,13 @@
-<!-- Banner Image -->
-![Profile Banner](https://source.unsplash.com/1200x400/?technology,coding)
+
 
 <h1 align="center">🚀 Al Mumeetu Saikat 🚀</h1>
-<h3 align="center">Associate Software Developer | Full-Stack Developer | WordPress Expert</h3>
+<h3 align="center">Associate Software Developer | WordPress, WooCommerce, Elementor Expert</h3>
 
 ---
 
 ## 🌟 About Me  
 
-I am a passionate **Full-Stack Developer** skilled in both **frontend** and **backend** technologies.  
+I am a passionate **WordPress Developer** skilled in both **frontend** and **backend** technologies.  
 I love building scalable web applications, designing creative UI/UX, and solving complex problems.  
 
 ---
@@ -26,11 +25,10 @@ I love building scalable web applications, designing creative UI/UX, and solving
 
 ### 🔹 Backend  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### 🔹 Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
